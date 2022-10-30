@@ -8,10 +8,13 @@ In this challenge, I edited, or refactored, the Module 2 solution code to loop t
 
 # Results
 2017
+
 ![](https://github.com/MellyCodes808/Stock-Analysis/blob/main/resources/VBA_Challenge_2017.png)
+
 In 2017, There is only one loser- the menergy market was strong and many coompanies saw many net profits over 100% - way above market averages!
 
 2018
+
 ![](https://github.com/MellyCodes808/Stock-Analysis/blob/main/resources/VBA_Challenge_2018.png)
 
  In 2018 there is a different story. THe market still has 2 winners (RUN and ENPH) But the other stocks are trening negatively. Without seeing the year before you would thik that the market was in a major downturn, but after seeing the huge gains in the year prior, itsmore likley that the market is beggining to settle 
